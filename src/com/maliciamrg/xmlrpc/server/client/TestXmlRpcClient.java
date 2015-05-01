@@ -12,6 +12,8 @@ public class TestXmlRpcClient {
 	public static void main(String[] args) throws MalformedURLException, XmlRpcException {
 		XmlRpcClientConfigImpl config = new XmlRpcClientConfigImpl();
 
+		
+		
 		config.setServerURL(new URL((String) ("http://localhost:8080")));
 
 		XmlRpcClient client = new XmlRpcClient();
