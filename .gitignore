@@ -1,2 +1,13 @@
 /bin1/
 /bin/
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+
